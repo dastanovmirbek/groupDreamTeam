@@ -1,1 +1,3 @@
 # groupDreamTeam
+
+Asadbek Nazira Mirbek
